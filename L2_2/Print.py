@@ -1,0 +1,20 @@
+"""
+print('I', 'Lern', 'Python')
+print()
+print('Какой хороший день!')
+print('В тексте есть двойные "кавычки"')
+print(4)
+print(8)
+print(15)
+print(16)
+print(23)
+print(42)
+
+print('*')
+print('*'*2)
+print('*'*3)
+print('*'*4)
+print('*'*5)
+print('*'*6)
+print('*'*7)
+"""
