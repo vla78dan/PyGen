@@ -13,3 +13,11 @@
 # c = '30'
 #
 # print(a b c)
+
+# name = input()
+# print(name + ' - чемпион')
+
+q = input()
+w = input()
+e = input()
+print(e, w, q, sep='\n')
